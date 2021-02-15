@@ -12,8 +12,8 @@ Read the following to get started:
 3. Check if your git will handle your credentials:  
     https://docs.github.com/en/github/using-git/caching-your-github-credentials-in-git
 
-4. Clone the repository:
-    On the command line:
+4. Clone the repository:  
+    On the command line:  
         $ git clone https://github.gatech.edu/cs6400-2021-01-spring/cs6400-2021-01-Team104.git
 
 5. Start editing files.  
