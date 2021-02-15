@@ -4,7 +4,7 @@ Read the following to get started:
 
 1. Installing git:  
     On macOS:  
-        $ brew install git  
+        `$ brew install git  `
 
 2. Create a personal access token:  
     https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
@@ -14,7 +14,7 @@ Read the following to get started:
 
 4. Clone the repository:  
     On the command line:  
-        $ git clone https://github.gatech.edu/cs6400-2021-01-spring/cs6400-2021-01-Team104.git
+        `$ git clone https://github.gatech.edu/cs6400-2021-01-spring/cs6400-2021-01-Team104.git`
 
 5. Start editing files.  
     For code, I use VSCode, which has editing, git integration and the ability to have plugins for additional features.  
@@ -22,5 +22,5 @@ Read the following to get started:
 
 6. Commit your changes to git and push to the repository:  
     You can keep committing your changes as you make them and reach milestones. The commits will be stored in your local copy of the repository.  
-    When you 'push' using git, the changes you made get transferred to this repository, and are accessible by others.  
+    When you `push` using git, the changes you made get transferred to this repository, and are accessible by others.  
     If there is a conflict betwen what you are pushing and what others have pushed previously, git will let you know and allow you to resolve the conflicts.  
